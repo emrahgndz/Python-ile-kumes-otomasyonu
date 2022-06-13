@@ -1,0 +1,1 @@
+# Python-ile-kumes-otomasyonu
